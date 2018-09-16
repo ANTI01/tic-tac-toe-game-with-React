@@ -35,7 +35,27 @@ Read instructions below for using assets from JavaScript and HTML.
 You can, however, create more top-level directories.<br>
 They will not be included in the production build so you can use them for things like documentation.
 
-## Available Scripts
+## Edit or run this demo
+
+### Getting Started 
+
+This guide assumes intermediate level knowledge of HTML, CSS, and JavaScript. If you are totally new to frontend development, it might not be the best idea to jump right into this demo as your first step - grasp the basics then come back! At the same time, it is necessary that you have learnt Node.js before.
+
+Before you start, you should download or clone this repository to your computer, NPM is recommended installtion method when creating a loacl runtime environment.
+
+```shell
+$ git clone git https://github.com/ANTI01/tic-tac-toe-game-with-React.git
+# clone this repository to your computer
+
+$ cd my-app
+# navigate to your local project folder
+$ npm install
+# install dependencies
+
+$ npm start 
+# run this demo in the development mode
+# open [http://localhost:3000](http://localhost:3000) to view it in the browser
+```
 
 In the project directory, you can run:
 
